@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\bin\Debug\net6.0\OperadoresRelacionais(comparativos).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\bin\Debug\net6.0\OperadoresRelacionais(comparativos).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\bin\Debug\net6.0\OperadoresRelacionais(comparativos).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\bin\Debug\net6.0\OperadoresRelacionais(comparativos).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\bin\Debug\net6.0\OperadoresRelacionais(comparativos).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\refint\OperadoresRelacionais(comparativos).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\OperadoresRelacionais(comparativos).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresRelacionais(comparativos)\obj\Debug\net6.0\ref\OperadoresRelacionais(comparativos).dll

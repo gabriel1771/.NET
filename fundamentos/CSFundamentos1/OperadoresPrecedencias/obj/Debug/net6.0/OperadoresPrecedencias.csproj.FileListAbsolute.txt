@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\bin\Debug\net6.0\OperadoresPrecedencias.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\bin\Debug\net6.0\OperadoresPrecedencias.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\bin\Debug\net6.0\OperadoresPrecedencias.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\bin\Debug\net6.0\OperadoresPrecedencias.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\bin\Debug\net6.0\OperadoresPrecedencias.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\refint\OperadoresPrecedencias.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\OperadoresPrecedencias.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresPrecedencias\obj\Debug\net6.0\ref\OperadoresPrecedencias.dll

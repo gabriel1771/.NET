@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\bin\Debug\net6.0\OperadoresIncrementosDecrementos.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\bin\Debug\net6.0\OperadoresIncrementosDecrementos.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\bin\Debug\net6.0\OperadoresIncrementosDecrementos.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\bin\Debug\net6.0\OperadoresIncrementosDecrementos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\bin\Debug\net6.0\OperadoresIncrementosDecrementos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\refint\OperadoresIncrementosDecrementos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\OperadoresIncrementosDecrementos.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresIncrementosDecrementos\obj\Debug\net6.0\ref\OperadoresIncrementosDecrementos.dll

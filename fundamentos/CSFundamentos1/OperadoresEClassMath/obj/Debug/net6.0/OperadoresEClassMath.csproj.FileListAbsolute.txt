@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\bin\Debug\net6.0\OperadoresEClassMath.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\bin\Debug\net6.0\OperadoresEClassMath.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\bin\Debug\net6.0\OperadoresEClassMath.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\bin\Debug\net6.0\OperadoresEClassMath.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\bin\Debug\net6.0\OperadoresEClassMath.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\refint\OperadoresEClassMath.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\OperadoresEClassMath.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadoresEClassMath\obj\Debug\net6.0\ref\OperadoresEClassMath.dll

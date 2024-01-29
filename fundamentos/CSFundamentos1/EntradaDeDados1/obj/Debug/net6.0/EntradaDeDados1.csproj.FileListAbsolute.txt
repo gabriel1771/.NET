@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\bin\Debug\net6.0\EntradaDeDados1.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\bin\Debug\net6.0\EntradaDeDados1.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\bin\Debug\net6.0\EntradaDeDados1.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\bin\Debug\net6.0\EntradaDeDados1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\bin\Debug\net6.0\EntradaDeDados1.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\refint\EntradaDeDados1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\EntradaDeDados1.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\EntradaDeDados1\obj\Debug\net6.0\ref\EntradaDeDados1.dll

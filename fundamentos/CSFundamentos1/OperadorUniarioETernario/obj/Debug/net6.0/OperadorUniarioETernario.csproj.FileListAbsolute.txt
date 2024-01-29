@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\bin\Debug\net6.0\OperadorUniarioETernario.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\bin\Debug\net6.0\OperadorUniarioETernario.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\bin\Debug\net6.0\OperadorUniarioETernario.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\bin\Debug\net6.0\OperadorUniarioETernario.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\bin\Debug\net6.0\OperadorUniarioETernario.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\refint\OperadorUniarioETernario.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\OperadorUniarioETernario.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\OperadorUniarioETernario\obj\Debug\net6.0\ref\OperadorUniarioETernario.dll

@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\bin\Debug\net6.0\InterferenciaTipos1.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\bin\Debug\net6.0\InterferenciaTipos1.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\bin\Debug\net6.0\InterferenciaTipos1.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\bin\Debug\net6.0\InterferenciaTipos1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\bin\Debug\net6.0\InterferenciaTipos1.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\refint\InterferenciaTipos1.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\InterferenciaTipos1.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\fundamentos\CSFundamentos1\InterferenciaTipos1\obj\Debug\net6.0\ref\InterferenciaTipos1.dll

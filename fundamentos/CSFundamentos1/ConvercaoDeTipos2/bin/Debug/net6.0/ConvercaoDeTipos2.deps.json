@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvercaoDeTipos2/1.0.0": {
+        "runtime": {
+          "ConvercaoDeTipos2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvercaoDeTipos2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
