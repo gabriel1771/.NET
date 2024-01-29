@@ -1,0 +1,306 @@
+Exercícios – Seção Estruturas de controle e repetição
+1- Escreva um programa para receber 3 números inteiros e a seguir calcular e exibir qual deles é o maior
+Sugestão de solução:
+int num1, num2, num3;
+Console.Write("\nEncontre o maior dentre 3 números:\n");
+Console.Write("Primeiro Número :\t");
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Segundo Número :\t");
+num2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Terceiro Número :\t");
+num3 = Convert.ToInt32(Console.ReadLine());
+if (num1 > num2)
+{
+ if (num1 > num3)
+ Console.Write($"O primeiro número {num1} é o maior \n");
+ else
+ Console.Write($"O terceiro número {num3} é o maior.\n");
+}
+else if (num2 > num3)
+ Console.Write($"O segundo número {num2} é o maior \n");
+else
+ Console.Write($"O terceiro numero {num3} é o maior \n");
+Exercícios – Seção Estruturas de controle e repetição
+2 - Escreva um programa para calcular a raiz da equação quadrática : ax^2 +bx + x = 0
+- Considere a, b e c números inteiros apenas
+- Para calcular as raízes use a fórmula de Báskara : x = (-b +- sqrt(delta))/2.a delta = b^2 -4.a.c
+- Solicite a entrada de a , b e c e informe se existe ou não raiz real
+Dica: Utilize os recursos da classe Math e use a instrução if-elseif
+Sugestão de solução :
+int a, b, c;
+double d, x1, x2;
+Console.Write("Cálculo da equação do segundo grau :\n");
+Console.Write("Informe o valor de a :\t ");
+a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Informe o valor de b :\t ");
+b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Informe o valor de c :\t ");
+c = Convert.ToInt32(Console.ReadLine());
+d = b * b - 4 * a * c;
+if (d == 0)
+{
+ Console.Write("As duas raízes são iguais.\n");
+ x1 = -b / (2.0 * a);
+ x2 = x1;
+ Console.Write($"Primeira raiz x1= {x1}\n");
+ Console.Write($"Segunda raiz x2= {x2}\n");
+}
+else if (d > 0)
+{
+ Console.Write("Ambas as raízes são reais e diferentes\n");
+ x1 = (-b + Math.Sqrt(d)) / (2 * a);
+ x2 = (-b - Math.Sqrt(d)) / (2 * a);
+ Console.Write($"Primeira raiz x1= {x1}\n");
+ Console.Write($"Segunda raiz x2= {x2}\n");
+}
+else
+ Console.Write("As raízes são imaginárias;\n Sem solução para os números reais. \n\n");
+Exercícios – Seção Estruturas de controle e repetição
+3 - Escreva um programa para exibir os 10 primeiros números inteiros naturais e calcular a sua soma usando os loop
+while, do-while e for.
+Sugestão de solução :
+1- Usando loop while
+ int i=1, soma = 0;
+ Console.Write("Os 10 primeiros números naturais são :\n");
+ while (i <= 10)
+ {
+ soma = soma + i;
+ Console.Write($"{i} ");
+ i++;
+ }
+ Console.Write($"\nA soma dos números é : {soma}\n");
+2- Usando loop do-while
+ int i=1, soma = 0;
+ Console.Write("Os 10 primeiros números naturais são :\n");
+ do
+ {
+ soma = soma + i;
+ Console.Write($"{i} ");
+ i++;
+ }
+ while (i <= 10);
+ Console.Write($"\nA soma dos números é : {soma}\n");
+3- Usando o loop for
+ int i, soma = 0;
+ Console.Write("Os 10 primeiros números naturais são :\n");
+ for (i = 1; i <= 10; i++)
+ {
+ soma = soma + i;
+ Console.Write($"{i} ");
+ }
+ Console.Write($"\nA soma dos números é : {soma}\n");
+Exercícios – Seção Estruturas de controle e repetição
+4- Escreva um programa para exibir a tabela de multiplicação de um número inteiro maior que zero recebido via
+teclado
+- Considere a tabela de multiplicação de 1 até 10
+- Após exibir a tabela torne a solicitar outro número
+- Para sair defina uma condição de saída
+- Verifique se o número é maior que zero e emita uma mensagem
+- Dica: Use os loop while e for e para sair a instrução break
+Sugestão de solução :
+while (true)
+{
+ int numero;
+ int contador = 1;
+ Console.Write("\nDigite um número maior que zero ('999' sai ) : \t");
+ numero = Convert.ToInt32(Console.ReadLine());
+ if (numero == 999)
+ break;
+ if (numero > 0)
+ {
+ Console.WriteLine($"\n### Tabuado do {numero} ###\n");
+ while (contador < 11)
+ {
+ Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+ contador++;
+ }
+ }
+ else
+ {
+ Console.WriteLine("\nNúmero deve ser maior que zero !! ");
+ }
+}
+Exercícios – Seção Estruturas de controle e repetição
+5- Escreva um programa para solicitar ao usuário que escolha a resposta correta de uma lista de opções de resposta
+de uma pergunta. O usuário pode optar por continuar respondendo a pergunta ou parar de responder.
+Não utilize a instrução break. Dica : Usar loop while e instruções if-else-if
+Abaixo um modelo para a pergunta e as opções :
+Qual a instrução para sair de um loop ?
+a.quit
+b.continue
+c.break
+d.exit
+Qual a opção correta ? (Tecle x para sair)
+Sugestão de solução :
+string resposta;
+bool condicao = true;
+Console.WriteLine("Qual a instrução para sair de um loop ?");
+Console.WriteLine("a.quit");
+Console.WriteLine("b.continue");
+Console.WriteLine("c.break");
+Console.WriteLine("d.exit");
+while (condicao)
+{
+ Console.WriteLine("\nQual a opção correta ? (Tecle x para sair)");
+ resposta = Console.ReadLine().ToLower();
+ if (resposta == "c")
+ {
+ Console.WriteLine("Resposta Correta !");
+ condicao = false;
+ }
+ else if (resposta == "x")
+ {
+ Console.WriteLine("Programa encerrado..");
+ condicao = false;
+ }
+ else
+ {
+ Console.WriteLine("Resposta Incorreta !!!");
+ }
+}
+Exercícios – Seção Estruturas de controle e repetição
+6- Crie um programa para escrever os números pares de 10 a 20, ambos incluídos, exceto 16, de 3 maneiras
+diferentes:
+Sugestão de solução:
+Incrementando 2 em cada passo :
+for (int i = 10; i <= 20; i += 2)
+{
+ if (i == 16)
+ continue;
+ Console.Write($"i = {i} ");
+}
+Incrementando 2 em cada passo :
+for (int i = 10; i <= 20; i++)
+{
+ if (i % 2 == 1)
+ continue;
+ if (i == 16)
+ continue;
+ Console.Write($"i = {i} ");
+}
+Com loop infinito
+for (int i = 10; ; i += 2)
+{
+ if (i == 16)
+ continue;
+ if (i > 20)
+ break;
+ Console.Write($"i = {i} ");
+}
+Exercícios – Seção Estruturas de controle e repetição
+7- Escreva um programa para exibir o padrão como triângulo de ângulo reto usando asterisco (*)
+Sugestão de solução :
+int i, j, linhas;
+Console.Write("Informe o número de linhas : ");
+linhas = Convert.ToInt32(Console.ReadLine());
+for (i = 1; i <= linhas; i++)
+{
+ for (j = 1; j <= i; j++)
+ Console.Write("*");
+ Console.Write("\n");
+}
+Exercícios – Seção Estruturas de controle e repetição
+8- Escreva um programa para calcular o fatorial de um número inteiro.
+O fatorial de um número é representado por : n! => n * (n – 1) * (n – 2) ....2*1
+Exemplo : fatorial de 6 é representado por 6! = 6*5*4*3*2*1
+Sugestão de solução :
+int i, f = 1, num;
+Console.Write("Cálculo do fatorial de um número:\n");
+Console.Write("\nInforme o número inteiro maior que zero : \t");
+num = Convert.ToInt32(Console.ReadLine());
+for (i = 1; i <= num; i++)
+ f = f * i;
+Console.Write($"\nO fatorial de {num} é: {f}\n");
+Exercícios – Seção Estruturas de controle e repetição
+9- Escreva um programa para exibir as tabelas de multiplicação do 2 ao 6 usando o loop do-while aninhado
+Sugestão de solução :
+int numero = 2;
+do
+{
+ int multiplicador = 1;
+ do
+ {
+ Console.WriteLine($"{numero} x {multiplicador} = {numero* multiplicador} ");
+ multiplicador++;
+ }
+ while (multiplicador <= 10);
+ Console.WriteLine(" ");
+ numero++;
+} while (numero <= 6);
+Console.ReadKey();
+Exercícios – Seção Estruturas de controle e repetição
+10- Crie um programa que recebe na entrada de dados um número inteiro de 0 a 10 que representa a nota de um
+aluno. Com base na tabela a seguir imprima no console qual o resultado da avaliação do aluno. (Use a instrução
+switch, break e default em um loop infinito e defina uma condição de saida)
+Nota Avaliação
+10 A+
+9 A
+7 e 8 B
+6 C
+5 E
+0 a 4 F
+Sugestão de solução :
+while (true)
+{
+ Console.WriteLine("\nInforme a nota do aluno (99 sai) ");
+ int x = Convert.ToInt32(Console.ReadLine());
+ if (x == 99)
+ break;
+ Console.Write("\nResultado da avaliação: \t");
+ switch (x)
+ {
+ case 10:
+ Console.WriteLine("A+");
+ break;
+ case 9:
+ Console.WriteLine("A+");
+ break;
+ case 8:
+ case 7:
+ Console.WriteLine("B");
+ break;
+ case 6:
+ Console.WriteLine("C");
+ break;
+ case 5:
+ Console.WriteLine("E");
+ break;
+ default:
+ Console.WriteLine("F");
+ break;
+ }
+}
+Exercícios – Seção Estruturas de controle e repetição
+11- Crie um programa para realizar as operações de adição, subtração, multiplicação e divisão de números inteiros
+maior que zero.
+Sugestão de solução :
+int num1;
+int num2;
+string operando;
+float resposta;
+Console.Write("\nInforme o primeiro número: \t");
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("\nInforme o operando (+, -, /, *): ");
+operando = Console.ReadLine();
+Console.Write("\nInforme o segundo número: \t ");
+num2 = Convert.ToInt32(Console.ReadLine());
+switch (operando)
+{
+ case "-":
+ resposta = num1 - num2;
+ break;
+ case "+":
+ resposta = num1 + num2;
+ break;
+ case "/":
+ resposta = (float) num1 / num2;
+ break;
+ case "*":
+ resposta = num1 * num2;
+ break;
+ default:
+ resposta = 0;
+ break;
+}
+Console.WriteLine($"\n{num1} {operando} {num2} = {resposta}");
+Console.ReadKey();

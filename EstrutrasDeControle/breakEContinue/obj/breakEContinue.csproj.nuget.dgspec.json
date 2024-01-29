@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj",
         "projectName": "breakEContinue",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\breakEContinue\\breakEContinue.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\breakEContinue\\obj\\",
         "projectStyle": "PackageReference",

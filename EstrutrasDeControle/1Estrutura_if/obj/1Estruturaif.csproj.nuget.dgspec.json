@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj",
         "projectName": "1Estruturaif",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\1Estrutura_if\\1Estruturaif.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\1Estrutura_if\\obj\\",
         "projectStyle": "PackageReference",

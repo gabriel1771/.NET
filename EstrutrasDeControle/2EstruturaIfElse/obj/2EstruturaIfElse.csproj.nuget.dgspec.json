@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj",
         "projectName": "2EstruturaIfElse",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\2EstruturaIfElse.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\2EstruturaIfElse\\obj\\",
         "projectStyle": "PackageReference",

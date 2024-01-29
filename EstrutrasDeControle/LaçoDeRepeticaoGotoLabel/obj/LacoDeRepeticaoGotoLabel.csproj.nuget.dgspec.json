@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj",
         "projectName": "LacoDeRepeticaoGotoLabel",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\LacoDeRepeticaoGotoLabel.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LaçoDeRepeticaoGotoLabel\\obj\\",
         "projectStyle": "PackageReference",

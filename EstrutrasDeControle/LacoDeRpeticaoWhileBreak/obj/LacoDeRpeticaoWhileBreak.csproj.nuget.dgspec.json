@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj",
         "projectName": "LacoDeRpeticaoWhileBreak",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\LacoDeRpeticaoWhileBreak.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\linguagemC#\\EstrutrasDeControle\\LacoDeRpeticaoWhileBreak\\obj\\",
         "projectStyle": "PackageReference",
