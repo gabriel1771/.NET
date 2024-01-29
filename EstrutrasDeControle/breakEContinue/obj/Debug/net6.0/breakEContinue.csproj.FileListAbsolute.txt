@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\bin\Debug\net6.0\breakEContinue.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\bin\Debug\net6.0\breakEContinue.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\bin\Debug\net6.0\breakEContinue.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\bin\Debug\net6.0\breakEContinue.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\bin\Debug\net6.0\breakEContinue.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\refint\breakEContinue.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\breakEContinue.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\breakEContinue\obj\Debug\net6.0\ref\breakEContinue.dll

@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\bin\Debug\net6.0\LacoDeRepeticaoWhiel.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\bin\Debug\net6.0\LacoDeRepeticaoWhiel.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\bin\Debug\net6.0\LacoDeRepeticaoWhiel.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\bin\Debug\net6.0\LacoDeRepeticaoWhiel.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\bin\Debug\net6.0\LacoDeRepeticaoWhiel.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\refint\LacoDeRepeticaoWhiel.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\LacoDeRepeticaoWhiel.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\LacoDeRepeticaoWhiel\obj\Debug\net6.0\ref\LacoDeRepeticaoWhiel.dll

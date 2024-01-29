@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5EstrutruraSwitchCase2/1.0.0": {
+        "runtime": {
+          "5EstrutruraSwitchCase2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5EstrutruraSwitchCase2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\bin\Debug\net6.0\2EstruturaIfElse.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\bin\Debug\net6.0\2EstruturaIfElse.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\bin\Debug\net6.0\2EstruturaIfElse.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\bin\Debug\net6.0\2EstruturaIfElse.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\bin\Debug\net6.0\2EstruturaIfElse.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\refint\2EstruturaIfElse.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\2EstruturaIfElse.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\2EstruturaIfElse\obj\Debug\net6.0\ref\2EstruturaIfElse.dll

@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\bin\Debug\net6.0\5EstrutruraSwitchCase2.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\bin\Debug\net6.0\5EstrutruraSwitchCase2.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\bin\Debug\net6.0\5EstrutruraSwitchCase2.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\bin\Debug\net6.0\5EstrutruraSwitchCase2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\bin\Debug\net6.0\5EstrutruraSwitchCase2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\refint\5EstrutruraSwitchCase2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\5EstrutruraSwitchCase2.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\linguagemC#\EstrutrasDeControle\5EstrutruraSwitchCase2\obj\Debug\net6.0\ref\5EstrutruraSwitchCase2.dll
