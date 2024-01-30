@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\bin\Debug\net6.0\2Metodos.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\bin\Debug\net6.0\2Metodos.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\bin\Debug\net6.0\2Metodos.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\bin\Debug\net6.0\2Metodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\bin\Debug\net6.0\2Metodos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\refint\2Metodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\2Metodos.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\2Metodos\obj\Debug\net6.0\ref\2Metodos.dll
