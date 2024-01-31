@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\bin\Debug\net6.0\6This.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\bin\Debug\net6.0\6This.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\bin\Debug\net6.0\6This.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\bin\Debug\net6.0\6This.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\bin\Debug\net6.0\6This.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\refint\6This.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\6This.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\6This\obj\Debug\net6.0\ref\6This.dll

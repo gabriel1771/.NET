@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\bin\Debug\net6.0\5Construtor.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\bin\Debug\net6.0\5Construtor.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\bin\Debug\net6.0\5Construtor.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\bin\Debug\net6.0\5Construtor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\bin\Debug\net6.0\5Construtor.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\refint\5Construtor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\5Construtor.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\5Construtor\obj\Debug\net6.0\ref\5Construtor.dll

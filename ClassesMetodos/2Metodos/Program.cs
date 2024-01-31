@@ -16,6 +16,7 @@ class MinhaClasse
 
     }
 
+    //usando uma expressão body ou corpo de expressão
     public void DataAtual() => Console.WriteLine(DateTime.Now.ToShortDateString());
     
 
