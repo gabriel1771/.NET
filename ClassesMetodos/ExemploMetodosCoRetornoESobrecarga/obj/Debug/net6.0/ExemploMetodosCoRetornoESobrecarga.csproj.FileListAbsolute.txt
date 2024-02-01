@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\bin\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\bin\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\bin\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\bin\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\bin\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\refint\ExemploMetodosCoRetornoESobrecarga.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ExemploMetodosCoRetornoESobrecarga.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ExemploMetodosCoRetornoESobrecarga\obj\Debug\net6.0\ref\ExemploMetodosCoRetornoESobrecarga.dll

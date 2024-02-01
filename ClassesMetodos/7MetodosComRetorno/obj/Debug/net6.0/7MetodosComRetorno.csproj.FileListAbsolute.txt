@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\bin\Debug\net6.0\7MetodosComRetorno.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\bin\Debug\net6.0\7MetodosComRetorno.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\bin\Debug\net6.0\7MetodosComRetorno.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\bin\Debug\net6.0\7MetodosComRetorno.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\bin\Debug\net6.0\7MetodosComRetorno.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\refint\7MetodosComRetorno.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\7MetodosComRetorno.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\7MetodosComRetorno\obj\Debug\net6.0\ref\7MetodosComRetorno.dll

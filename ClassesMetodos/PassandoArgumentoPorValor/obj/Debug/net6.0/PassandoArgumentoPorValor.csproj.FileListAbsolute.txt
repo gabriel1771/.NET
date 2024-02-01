@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\bin\Debug\net6.0\PassandoArgumentoPorValor.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\bin\Debug\net6.0\PassandoArgumentoPorValor.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\bin\Debug\net6.0\PassandoArgumentoPorValor.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\bin\Debug\net6.0\PassandoArgumentoPorValor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\bin\Debug\net6.0\PassandoArgumentoPorValor.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\refint\PassandoArgumentoPorValor.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\PassandoArgumentoPorValor.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorValor\obj\Debug\net6.0\ref\PassandoArgumentoPorValor.dll
