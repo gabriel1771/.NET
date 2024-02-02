@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\refint\21TiposAnonimos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\ref\21TiposAnonimos.dll

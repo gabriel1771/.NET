@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\bin\Debug\net6.0\PassandoArgumentoPorReferenciaOut.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\bin\Debug\net6.0\PassandoArgumentoPorReferenciaOut.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\bin\Debug\net6.0\PassandoArgumentoPorReferenciaOut.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\bin\Debug\net6.0\PassandoArgumentoPorReferenciaOut.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\bin\Debug\net6.0\PassandoArgumentoPorReferenciaOut.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\refint\PassandoArgumentoPorReferenciaOut.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\PassandoArgumentoPorReferenciaOut.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\PassandoArgumentoPorReferenciaOut\obj\Debug\net6.0\ref\PassandoArgumentoPorReferenciaOut.dll

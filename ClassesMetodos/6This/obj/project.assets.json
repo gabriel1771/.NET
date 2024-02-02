@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\6This\\6This.csproj",
-      "projectName": "6This",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\6This\\6This.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\6This\\06This.csproj",
+      "projectName": "06This",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\6This\\06This.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\6This\\obj\\",
       "projectStyle": "PackageReference",

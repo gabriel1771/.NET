@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\3MetodosParametros\\3MetodosParametros.csproj",
-      "projectName": "3MetodosParametros",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\3MetodosParametros\\3MetodosParametros.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\3MetodosParametros\\03MetodosParametros.csproj",
+      "projectName": "03MetodosParametros",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\3MetodosParametros\\03MetodosParametros.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\3MetodosParametros\\obj\\",
       "projectStyle": "PackageReference",

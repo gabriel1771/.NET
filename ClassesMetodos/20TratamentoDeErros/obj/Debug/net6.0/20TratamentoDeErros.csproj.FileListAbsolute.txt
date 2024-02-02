@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\bin\Debug\net6.0\20TratamentoDeErros.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\bin\Debug\net6.0\20TratamentoDeErros.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\bin\Debug\net6.0\20TratamentoDeErros.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\bin\Debug\net6.0\20TratamentoDeErros.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\bin\Debug\net6.0\20TratamentoDeErros.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\refint\20TratamentoDeErros.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\20TratamentoDeErros.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\20TratamentoDeErros\obj\Debug\net6.0\ref\20TratamentoDeErros.dll

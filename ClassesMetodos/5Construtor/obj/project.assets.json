@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\5Construtor\\5Construtor.csproj",
-      "projectName": "5Construtor",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\5Construtor\\5Construtor.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\5Construtor\\05Construtor.csproj",
+      "projectName": "05Construtor",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\5Construtor\\05Construtor.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\5Construtor\\obj\\",
       "projectStyle": "PackageReference",

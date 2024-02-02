@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\ClassesMetodos\\1Classes.csproj",
-      "projectName": "1Classes",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\ClassesMetodos\\1Classes.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\ClassesMetodos\\01Classes.csproj",
+      "projectName": "01Classes",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\ClassesMetodos\\01Classes.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\ClassesMetodos\\obj\\",
       "projectStyle": "PackageReference",

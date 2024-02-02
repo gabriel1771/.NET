@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\7MetodosComRetorno2\\7MetodosComRetorno2.csproj",
-      "projectName": "7MetodosComRetorno2",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\7MetodosComRetorno2\\7MetodosComRetorno2.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\7MetodosComRetorno2\\07MetodosComRetorno2.csproj",
+      "projectName": "07MetodosComRetorno2",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\7MetodosComRetorno2\\07MetodosComRetorno2.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\7MetodosComRetorno2\\obj\\",
       "projectStyle": "PackageReference",

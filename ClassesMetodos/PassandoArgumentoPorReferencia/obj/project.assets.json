@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\PassandoArgumentoPorReferencia\\PassandoArgumentoPorReferencia.csproj",
-      "projectName": "PassandoArgumentoPorReferencia",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\PassandoArgumentoPorReferencia\\PassandoArgumentoPorReferencia.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\PassandoArgumentoPorReferencia\\11PassandoArgumentoPorReferencia.csproj",
+      "projectName": "11PassandoArgumentoPorReferencia",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\PassandoArgumentoPorReferencia\\11PassandoArgumentoPorReferencia.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ClassesMetodos\\PassandoArgumentoPorReferencia\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\bin\Debug\net6.0\ConstrutorEstatico.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\bin\Debug\net6.0\ConstrutorEstatico.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\bin\Debug\net6.0\ConstrutorEstatico.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\bin\Debug\net6.0\ConstrutorEstatico.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\bin\Debug\net6.0\ConstrutorEstatico.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\refint\ConstrutorEstatico.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\ConstrutorEstatico\obj\Debug\net6.0\ref\ConstrutorEstatico.dll

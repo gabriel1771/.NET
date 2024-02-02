@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\bin\Debug\net6.0\15CamposStaticos.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\bin\Debug\net6.0\15CamposStaticos.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\bin\Debug\net6.0\15CamposStaticos.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\bin\Debug\net6.0\15CamposStaticos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\bin\Debug\net6.0\15CamposStaticos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\refint\15CamposStaticos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\15CamposStaticos.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\15CamposStaticos\obj\Debug\net6.0\ref\15CamposStaticos.dll

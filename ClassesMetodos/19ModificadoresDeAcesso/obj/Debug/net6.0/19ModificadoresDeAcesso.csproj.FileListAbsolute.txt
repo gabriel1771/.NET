@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\refint\19ModificadoresDeAcesso.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\ref\19ModificadoresDeAcesso.dll

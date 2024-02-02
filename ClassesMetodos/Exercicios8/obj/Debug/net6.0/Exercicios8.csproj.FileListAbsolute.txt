@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\bin\Debug\net6.0\Exercicios8.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\bin\Debug\net6.0\Exercicios8.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\bin\Debug\net6.0\Exercicios8.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\bin\Debug\net6.0\Exercicios8.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\bin\Debug\net6.0\Exercicios8.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\refint\Exercicios8.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\Exercicios8.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\Exercicios8\obj\Debug\net6.0\ref\Exercicios8.dll
