@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\bin\Debug\net7.0\9ListTipoEnumerable.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\bin\Debug\net7.0\9ListTipoEnumerable.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\bin\Debug\net7.0\9ListTipoEnumerable.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\bin\Debug\net7.0\9ListTipoEnumerable.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\bin\Debug\net7.0\9ListTipoEnumerable.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\refint\9ListTipoEnumerable.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\9ListTipoEnumerable.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\9ListTipoEnumerable\obj\Debug\net7.0\ref\9ListTipoEnumerable.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\bin\Debug\net7.0\Exerecicios7.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\bin\Debug\net7.0\Exerecicios7.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\bin\Debug\net7.0\Exerecicios7.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\bin\Debug\net7.0\Exerecicios7.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\bin\Debug\net7.0\Exerecicios7.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\refint\Exerecicios7.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\Exerecicios7.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\Exerecicios7\obj\Debug\net7.0\ref\Exerecicios7.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\ArrayBiDimencinonais.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\ArrayBiDimencinonais.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\ArrayBiDimencinonais.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\ArrayBiDimencinonais.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\refint\ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ArrayBiDimencinonais.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ref\ArrayBiDimencinonais.dll

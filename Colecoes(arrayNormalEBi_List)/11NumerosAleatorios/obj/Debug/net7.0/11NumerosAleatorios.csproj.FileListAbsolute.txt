@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\bin\Debug\net7.0\11NumerosAleatorios.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\bin\Debug\net7.0\11NumerosAleatorios.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\bin\Debug\net7.0\11NumerosAleatorios.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\bin\Debug\net7.0\11NumerosAleatorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\bin\Debug\net7.0\11NumerosAleatorios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\refint\11NumerosAleatorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\11NumerosAleatorios.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\11NumerosAleatorios\obj\Debug\net7.0\ref\11NumerosAleatorios.dll

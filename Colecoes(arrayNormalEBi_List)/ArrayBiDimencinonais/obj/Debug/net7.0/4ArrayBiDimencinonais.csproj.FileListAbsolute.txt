@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\4ArrayBiDimencinonais.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\4ArrayBiDimencinonais.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\4ArrayBiDimencinonais.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\4ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\bin\Debug\net7.0\4ArrayBiDimencinonais.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\refint\4ArrayBiDimencinonais.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\4ArrayBiDimencinonais.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ArrayBiDimencinonais\obj\Debug\net7.0\ref\4ArrayBiDimencinonais.dll

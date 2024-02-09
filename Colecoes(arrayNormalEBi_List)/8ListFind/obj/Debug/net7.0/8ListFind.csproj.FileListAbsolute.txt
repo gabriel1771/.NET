@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFind.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFind.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFind.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFind.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFind.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\refint\8ListFind.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFind.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\ref\8ListFind.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\refint\6ArrayList.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\ref\6ArrayList.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\bin\Debug\net7.0\10Indexadores.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\bin\Debug\net7.0\10Indexadores.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\bin\Debug\net7.0\10Indexadores.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\bin\Debug\net7.0\10Indexadores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\bin\Debug\net7.0\10Indexadores.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\refint\10Indexadores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\10Indexadores.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\10Indexadores\obj\Debug\net7.0\ref\10Indexadores.dll

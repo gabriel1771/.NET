@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList(legado).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList(legado).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList(legado).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList(legado).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\bin\Debug\net7.0\6ArrayList(legado).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\refint\6ArrayList(legado).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\6ArrayList(legado).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\6ArrayList\obj\Debug\net7.0\ref\6ArrayList(legado).dll

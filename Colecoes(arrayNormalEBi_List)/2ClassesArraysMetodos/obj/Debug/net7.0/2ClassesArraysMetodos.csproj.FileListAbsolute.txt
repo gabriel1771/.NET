@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\bin\Debug\net7.0\2ClassesArraysMetodos.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\bin\Debug\net7.0\2ClassesArraysMetodos.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\bin\Debug\net7.0\2ClassesArraysMetodos.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\bin\Debug\net7.0\2ClassesArraysMetodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\bin\Debug\net7.0\2ClassesArraysMetodos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\refint\2ClassesArraysMetodos.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\2ClassesArraysMetodos.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\2ClassesArraysMetodos\obj\Debug\net7.0\ref\2ClassesArraysMetodos.dll

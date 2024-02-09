@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\bin\Debug\net6.0\22PartialClass.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\bin\Debug\net6.0\22PartialClass.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\bin\Debug\net6.0\22PartialClass.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\bin\Debug\net6.0\22PartialClass.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\bin\Debug\net6.0\22PartialClass.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\refint\22PartialClass.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\22PartialClass.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ClassesMetodos\22PartialClass\obj\Debug\net6.0\ref\22PartialClass.dll

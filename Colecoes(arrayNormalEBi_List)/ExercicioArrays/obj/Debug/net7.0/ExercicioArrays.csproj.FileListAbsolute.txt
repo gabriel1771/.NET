@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\bin\Debug\net7.0\ExercicioArrays.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\bin\Debug\net7.0\ExercicioArrays.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\bin\Debug\net7.0\ExercicioArrays.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\bin\Debug\net7.0\ExercicioArrays.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\bin\Debug\net7.0\ExercicioArrays.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\refint\ExercicioArrays.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ExercicioArrays.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExercicioArrays\obj\Debug\net7.0\ref\ExercicioArrays.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFindEExpressãoLambida.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFindEExpressãoLambida.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFindEExpressãoLambida.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFindEExpressãoLambida.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\bin\Debug\net7.0\8ListFindEExpressãoLambida.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\refint\8ListFindEExpressãoLambida.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\8ListFindEExpressãoLambida.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\8ListFind\obj\Debug\net7.0\ref\8ListFindEExpressãoLambida.dll

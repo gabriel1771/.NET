@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\bin\Debug\net7.0\ExerciciosArrayBidimencional.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\bin\Debug\net7.0\ExerciciosArrayBidimencional.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\bin\Debug\net7.0\ExerciciosArrayBidimencional.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\bin\Debug\net7.0\ExerciciosArrayBidimencional.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\bin\Debug\net7.0\ExerciciosArrayBidimencional.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\refint\ExerciciosArrayBidimencional.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ExerciciosArrayBidimencional.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\ExerciciosArrayBidimencional\obj\Debug\net7.0\ref\ExerciciosArrayBidimencional.dll

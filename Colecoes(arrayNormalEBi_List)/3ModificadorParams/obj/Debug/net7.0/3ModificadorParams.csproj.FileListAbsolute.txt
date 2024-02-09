@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\bin\Debug\net7.0\3ModificadorParams.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\bin\Debug\net7.0\3ModificadorParams.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\bin\Debug\net7.0\3ModificadorParams.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\bin\Debug\net7.0\3ModificadorParams.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\bin\Debug\net7.0\3ModificadorParams.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\refint\3ModificadorParams.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\3ModificadorParams.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Colecoes\3ModificadorParams\obj\Debug\net7.0\ref\3ModificadorParams.dll
