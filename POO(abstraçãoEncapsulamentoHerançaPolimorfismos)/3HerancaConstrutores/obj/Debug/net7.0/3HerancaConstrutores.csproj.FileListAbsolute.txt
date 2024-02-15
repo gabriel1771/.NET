@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\bin\Debug\net7.0\3HerancaConstrutores.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\bin\Debug\net7.0\3HerancaConstrutores.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\bin\Debug\net7.0\3HerancaConstrutores.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\bin\Debug\net7.0\3HerancaConstrutores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\bin\Debug\net7.0\3HerancaConstrutores.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\refint\3HerancaConstrutores.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\3HerancaConstrutores.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\3HerancaConstrutores\obj\Debug\net7.0\ref\3HerancaConstrutores.dll

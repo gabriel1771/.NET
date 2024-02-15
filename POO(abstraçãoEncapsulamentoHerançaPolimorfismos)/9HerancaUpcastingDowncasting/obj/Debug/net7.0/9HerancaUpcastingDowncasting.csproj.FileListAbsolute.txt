@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\bin\Debug\net7.0\9HerancaUpcastingDowncasting.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\bin\Debug\net7.0\9HerancaUpcastingDowncasting.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\bin\Debug\net7.0\9HerancaUpcastingDowncasting.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\bin\Debug\net7.0\9HerancaUpcastingDowncasting.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\bin\Debug\net7.0\9HerancaUpcastingDowncasting.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\refint\9HerancaUpcastingDowncasting.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\9HerancaUpcastingDowncasting.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\9HerancaUpcastingDowncasting\obj\Debug\net7.0\ref\9HerancaUpcastingDowncasting.dll

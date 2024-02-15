@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\bin\Debug\net7.0\ExercicoDeFixacaoHeranca.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\bin\Debug\net7.0\ExercicoDeFixacaoHeranca.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\bin\Debug\net7.0\ExercicoDeFixacaoHeranca.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\bin\Debug\net7.0\ExercicoDeFixacaoHeranca.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\bin\Debug\net7.0\ExercicoDeFixacaoHeranca.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\refint\ExercicoDeFixacaoHeranca.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ExercicoDeFixacaoHeranca.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\ExercicoDeFixacaoHeranca\obj\Debug\net7.0\ref\ExercicoDeFixacaoHeranca.dll

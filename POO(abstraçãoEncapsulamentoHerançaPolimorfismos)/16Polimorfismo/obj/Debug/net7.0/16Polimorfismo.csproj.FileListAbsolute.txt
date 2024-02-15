@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\bin\Debug\net7.0\16Polimorfismo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\bin\Debug\net7.0\16Polimorfismo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\bin\Debug\net7.0\16Polimorfismo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\bin\Debug\net7.0\16Polimorfismo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\bin\Debug\net7.0\16Polimorfismo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\refint\16Polimorfismo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\16Polimorfismo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\16Polimorfismo\obj\Debug\net7.0\ref\16Polimorfismo.dll

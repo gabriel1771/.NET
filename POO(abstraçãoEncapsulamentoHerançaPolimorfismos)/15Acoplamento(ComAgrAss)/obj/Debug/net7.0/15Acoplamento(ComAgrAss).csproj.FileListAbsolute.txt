@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\bin\Debug\net7.0\15Acoplamento(ComAgrAss).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\bin\Debug\net7.0\15Acoplamento(ComAgrAss).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\bin\Debug\net7.0\15Acoplamento(ComAgrAss).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\bin\Debug\net7.0\15Acoplamento(ComAgrAss).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\bin\Debug\net7.0\15Acoplamento(ComAgrAss).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\refint\15Acoplamento(ComAgrAss).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\15Acoplamento(ComAgrAss).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\15Acoplamento(ComAgrAss)\obj\Debug\net7.0\ref\15Acoplamento(ComAgrAss).dll

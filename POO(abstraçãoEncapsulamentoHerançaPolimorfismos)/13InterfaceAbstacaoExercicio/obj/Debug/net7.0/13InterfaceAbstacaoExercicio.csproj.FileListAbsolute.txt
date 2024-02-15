@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\bin\Debug\net7.0\13InterfaceAbstacaoExercicio.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\bin\Debug\net7.0\13InterfaceAbstacaoExercicio.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\bin\Debug\net7.0\13InterfaceAbstacaoExercicio.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\bin\Debug\net7.0\13InterfaceAbstacaoExercicio.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\bin\Debug\net7.0\13InterfaceAbstacaoExercicio.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\refint\13InterfaceAbstacaoExercicio.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\13InterfaceAbstacaoExercicio.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\13InterfaceAbstacaoExercicio\obj\Debug\net7.0\ref\13InterfaceAbstacaoExercicio.dll

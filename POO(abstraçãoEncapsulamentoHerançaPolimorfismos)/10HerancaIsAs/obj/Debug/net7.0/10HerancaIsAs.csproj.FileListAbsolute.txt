@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\bin\Debug\net7.0\10HerancaIsAs.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\bin\Debug\net7.0\10HerancaIsAs.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\bin\Debug\net7.0\10HerancaIsAs.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\bin\Debug\net7.0\10HerancaIsAs.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\bin\Debug\net7.0\10HerancaIsAs.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\refint\10HerancaIsAs.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\10HerancaIsAs.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\10HerancaIsAs\obj\Debug\net7.0\ref\10HerancaIsAs.dll

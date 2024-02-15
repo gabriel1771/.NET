@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\bin\Debug\net7.0\7HerancaSealed.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\bin\Debug\net7.0\7HerancaSealed.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\bin\Debug\net7.0\7HerancaSealed.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\bin\Debug\net7.0\7HerancaSealed.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\bin\Debug\net7.0\7HerancaSealed.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\refint\7HerancaSealed.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\7HerancaSealed.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\7HerancaSealed\obj\Debug\net7.0\ref\7HerancaSealed.dll

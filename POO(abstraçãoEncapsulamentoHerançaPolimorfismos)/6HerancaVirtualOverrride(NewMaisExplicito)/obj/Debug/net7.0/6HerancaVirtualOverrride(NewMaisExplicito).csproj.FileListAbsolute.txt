@@ -1,0 +1,14 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\bin\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\bin\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\bin\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\bin\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\bin\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\refint\6HerancaVirtualOverrride(NewMaisExplicito).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\6HerancaVirtualOverrride(NewMaisExplicito).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\6HerancaVirtualOverrride(NewMaisExplicito)\obj\Debug\net7.0\ref\6HerancaVirtualOverrride(NewMaisExplicito).dll

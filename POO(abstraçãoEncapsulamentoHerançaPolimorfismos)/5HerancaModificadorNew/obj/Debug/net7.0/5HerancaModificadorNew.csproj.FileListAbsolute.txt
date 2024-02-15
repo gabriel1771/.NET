@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\bin\Debug\net7.0\5HerancaModificadorNew.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\bin\Debug\net7.0\5HerancaModificadorNew.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\bin\Debug\net7.0\5HerancaModificadorNew.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\bin\Debug\net7.0\5HerancaModificadorNew.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\bin\Debug\net7.0\5HerancaModificadorNew.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\refint\5HerancaModificadorNew.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\5HerancaModificadorNew.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\POO(abstraçãoEncapsulamentoHerançaPolimorfismos)\5HerancaModificadorNew\obj\Debug\net7.0\ref\5HerancaModificadorNew.dll
