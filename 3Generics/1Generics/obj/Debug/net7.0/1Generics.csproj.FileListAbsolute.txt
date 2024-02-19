@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\refint\1Generics.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\ref\1Generics.dll

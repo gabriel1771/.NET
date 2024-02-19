@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics(SEGURANÇA).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics(SEGURANÇA).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics(SEGURANÇA).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics(SEGURANÇA).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\bin\Debug\net7.0\1Generics(SEGURANÇA).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\refint\1Generics(SEGURANÇA).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\1Generics(SEGURANÇA).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\1Generics\obj\Debug\net7.0\ref\1Generics(SEGURANÇA).dll

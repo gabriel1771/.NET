@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\bin\Debug\net7.0\8SortedSet.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\bin\Debug\net7.0\8SortedSet.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\bin\Debug\net7.0\8SortedSet.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\bin\Debug\net7.0\8SortedSet.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\bin\Debug\net7.0\8SortedSet.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\refint\8SortedSet.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\8SortedSet.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\8SortedSet\obj\Debug\net7.0\ref\8SortedSet.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\bin\Debug\net7.0\9StackUndo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\bin\Debug\net7.0\9StackUndo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\bin\Debug\net7.0\9StackUndo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\bin\Debug\net7.0\9StackUndo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\bin\Debug\net7.0\9StackUndo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\refint\9StackUndo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\9StackUndo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\9StackUndo\obj\Debug\net7.0\ref\9StackUndo.dll

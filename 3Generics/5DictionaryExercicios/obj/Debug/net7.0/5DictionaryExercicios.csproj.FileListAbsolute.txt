@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\bin\Debug\net7.0\5DictionaryExercicios.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\bin\Debug\net7.0\5DictionaryExercicios.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\bin\Debug\net7.0\5DictionaryExercicios.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\bin\Debug\net7.0\5DictionaryExercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\bin\Debug\net7.0\5DictionaryExercicios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\refint\5DictionaryExercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\5DictionaryExercicios.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\5DictionaryExercicios\obj\Debug\net7.0\ref\5DictionaryExercicios.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\bin\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\bin\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\bin\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\bin\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\bin\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\refint\4Dictionary(umaClasseGenericaDasColeçõesGenericas).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\4Dictionary(umaClasseGenericaDasColeçõesGenericas).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\Generics\4Dictionary(umaClasseGenericaDasColeçõesGenericas)\obj\Debug\net7.0\ref\4Dictionary(umaClasseGenericaDasColeçõesGenericas).dll

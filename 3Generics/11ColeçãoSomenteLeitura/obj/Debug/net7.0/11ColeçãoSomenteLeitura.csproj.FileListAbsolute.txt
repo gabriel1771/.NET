@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\bin\Debug\net7.0\11ColeçãoSomenteLeitura.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\bin\Debug\net7.0\11ColeçãoSomenteLeitura.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\bin\Debug\net7.0\11ColeçãoSomenteLeitura.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\bin\Debug\net7.0\11ColeçãoSomenteLeitura.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\bin\Debug\net7.0\11ColeçãoSomenteLeitura.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\refint\11ColeçãoSomenteLeitura.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\11ColeçãoSomenteLeitura.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura\obj\Debug\net7.0\ref\11ColeçãoSomenteLeitura.dll

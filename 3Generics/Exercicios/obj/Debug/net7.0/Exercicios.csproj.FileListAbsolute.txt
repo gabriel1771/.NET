@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\bin\Debug\net7.0\Exercicios.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\bin\Debug\net7.0\Exercicios.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\bin\Debug\net7.0\Exercicios.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\bin\Debug\net7.0\Exercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\bin\Debug\net7.0\Exercicios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\refint\Exercicios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\Exercicios.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\Exercicios\obj\Debug\net7.0\ref\Exercicios.dll

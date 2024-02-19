@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\bin\Debug\net7.0\11ColeçãoSomenteLeitura2.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\bin\Debug\net7.0\11ColeçãoSomenteLeitura2.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\bin\Debug\net7.0\11ColeçãoSomenteLeitura2.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\bin\Debug\net7.0\11ColeçãoSomenteLeitura2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\bin\Debug\net7.0\11ColeçãoSomenteLeitura2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\refint\11ColeçãoSomenteLeitura2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\11ColeçãoSomenteLeitura2.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\3Generics\11ColeçãoSomenteLeitura2\obj\Debug\net7.0\ref\11ColeçãoSomenteLeitura2.dll
