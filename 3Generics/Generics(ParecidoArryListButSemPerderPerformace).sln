@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Generics(Parametros)", "1G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Generics(Parametros)", "2Generics\2Generics(Parametros).csproj", "{5840E7D0-412E-4DAE-8B5D-1F4B21478803}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3GetHashCodeEqual", "3GetHashCodeEqual\3GetHashCodeEqual.csproj", "{1C35E586-B978-412D-9307-CC9640877E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3GetHashCodeEqual(OverrideClassTabelHash)", "3GetHashCodeEqual\3GetHashCodeEqual(OverrideClassTabelHash).csproj", "{1C35E586-B978-412D-9307-CC9640877E6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3GetHashCodeEqual2", "3GetHashCodeEqual2\3GetHashCodeEqual2.csproj", "{5C8A7F4F-FCAF-4875-A9D3-36492B2743B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3GetHashCodeEqual2(OverrideClassTabelHash)", "3GetHashCodeEqual2\3GetHashCodeEqual2(OverrideClassTabelHash).csproj", "{5C8A7F4F-FCAF-4875-A9D3-36492B2743B5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4Dictionary(umaClasseGenericaDasColeçõesGenericas)", "4Dictionary(umaClasseGenericaDasColeçõesGenericas)\4Dictionary(umaClasseGenericaDasColeçõesGenericas).csproj", "{A0C1C505-91D1-4A30-8703-81E016452E18}"
 EndProject

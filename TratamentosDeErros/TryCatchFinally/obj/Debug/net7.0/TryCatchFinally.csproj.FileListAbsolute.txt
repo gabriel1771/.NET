@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\refint\TryCatchFinally.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\TratamentosDeErros\TryCatchFinally\obj\Debug\net7.0\ref\TryCatchFinally.dll

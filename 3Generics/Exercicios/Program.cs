@@ -73,4 +73,22 @@
 
 /*---------------------------------------------*/
 //11)
+//Queue<string> printQueue = new Queue<string>();
+//printQueue.Enqueue("Arquivo1.pdf");
+//printQueue.Enqueue("Arquivo2.docx");
+//printQueue.Enqueue("Arquivo3.ppt");
+//while (printQueue.Count > 0)
+//{
+//    string file = printQueue.Dequeue();
+//    Console.WriteLine($"\nO arquivo \"{file}\" está sendo impresso...");
+//    Thread.Sleep(new Random().Next(1000, 5000));
+//    Console.WriteLine($"O arquivo \"{file}\" foi impresso com sucesso.");
+//}
+//Console.ReadKey();
+
+/*---------------------------------------------*/
+//12)
+
+
+
 
