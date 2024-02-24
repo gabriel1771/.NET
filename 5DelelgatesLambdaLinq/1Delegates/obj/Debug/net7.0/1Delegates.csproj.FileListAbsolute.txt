@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\bin\Debug\net7.0\1Delegates.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\bin\Debug\net7.0\1Delegates.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\bin\Debug\net7.0\1Delegates.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\bin\Debug\net7.0\1Delegates.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\bin\Debug\net7.0\1Delegates.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\refint\1Delegates.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\1Delegates.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\1Delegates\obj\Debug\net7.0\ref\1Delegates.dll

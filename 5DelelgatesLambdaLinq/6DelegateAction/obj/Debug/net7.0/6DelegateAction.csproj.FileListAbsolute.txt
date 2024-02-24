@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\bin\Debug\net7.0\6DelegateAction.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\bin\Debug\net7.0\6DelegateAction.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\bin\Debug\net7.0\6DelegateAction.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\bin\Debug\net7.0\6DelegateAction.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\bin\Debug\net7.0\6DelegateAction.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\refint\6DelegateAction.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\6DelegateAction.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\6DelegateAction\obj\Debug\net7.0\ref\6DelegateAction.dll

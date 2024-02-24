@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\bin\Debug\net7.0\DelegatePredicate.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\bin\Debug\net7.0\DelegatePredicate.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\bin\Debug\net7.0\DelegatePredicate.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\bin\Debug\net7.0\DelegatePredicate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\bin\Debug\net7.0\DelegatePredicate.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\refint\DelegatePredicate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\DelegatePredicate.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\DelegatePredicate\obj\Debug\net7.0\ref\DelegatePredicate.dll

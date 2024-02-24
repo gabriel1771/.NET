@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\bin\Debug\net7.0\13Linq2.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\bin\Debug\net7.0\13Linq2.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\bin\Debug\net7.0\13Linq2.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\bin\Debug\net7.0\13Linq2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\bin\Debug\net7.0\13Linq2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\refint\13Linq2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\13Linq2.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\13Linq2\obj\Debug\net7.0\ref\13Linq2.dll

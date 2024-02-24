@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\bin\Debug\net7.0\7DelegateFunc.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\bin\Debug\net7.0\7DelegateFunc.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\bin\Debug\net7.0\7DelegateFunc.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\bin\Debug\net7.0\7DelegateFunc.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\bin\Debug\net7.0\7DelegateFunc.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\refint\7DelegateFunc.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\7DelegateFunc.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\7DelegateFunc\obj\Debug\net7.0\ref\7DelegateFunc.dll

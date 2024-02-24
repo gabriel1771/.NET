@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\bin\Debug\net7.0\9EventHandler(SemDados).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\bin\Debug\net7.0\9EventHandler(SemDados).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\bin\Debug\net7.0\9EventHandler(SemDados).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\bin\Debug\net7.0\9EventHandler(SemDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\bin\Debug\net7.0\9EventHandler(SemDados).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\refint\9EventHandler(SemDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\9EventHandler(SemDados).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\9EventHandler\obj\Debug\net7.0\ref\9EventHandler(SemDados).dll

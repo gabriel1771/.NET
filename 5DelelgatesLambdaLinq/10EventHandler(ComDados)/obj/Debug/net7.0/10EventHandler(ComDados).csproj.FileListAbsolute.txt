@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\bin\Debug\net7.0\10EventHandler(ComDados).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\bin\Debug\net7.0\10EventHandler(ComDados).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\bin\Debug\net7.0\10EventHandler(ComDados).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\bin\Debug\net7.0\10EventHandler(ComDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\bin\Debug\net7.0\10EventHandler(ComDados).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\refint\10EventHandler(ComDados).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\10EventHandler(ComDados).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\10EventHandler(ComDados)\obj\Debug\net7.0\ref\10EventHandler(ComDados).dll

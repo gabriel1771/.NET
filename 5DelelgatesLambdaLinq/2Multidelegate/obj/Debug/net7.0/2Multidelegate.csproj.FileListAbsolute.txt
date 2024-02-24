@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\bin\Debug\net7.0\2Multidelegate.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\bin\Debug\net7.0\2Multidelegate.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\bin\Debug\net7.0\2Multidelegate.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\bin\Debug\net7.0\2Multidelegate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\bin\Debug\net7.0\2Multidelegate.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\refint\2Multidelegate.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\2Multidelegate.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\2Multidelegate\obj\Debug\net7.0\ref\2Multidelegate.dll

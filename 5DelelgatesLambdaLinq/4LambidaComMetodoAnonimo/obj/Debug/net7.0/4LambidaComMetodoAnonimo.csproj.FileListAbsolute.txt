@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\bin\Debug\net7.0\4LambidaComMetodoAnonimo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\bin\Debug\net7.0\4LambidaComMetodoAnonimo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\bin\Debug\net7.0\4LambidaComMetodoAnonimo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\bin\Debug\net7.0\4LambidaComMetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\bin\Debug\net7.0\4LambidaComMetodoAnonimo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\refint\4LambidaComMetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\4LambidaComMetodoAnonimo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\4LambidaComMetodoAnonimo\obj\Debug\net7.0\ref\4LambidaComMetodoAnonimo.dll

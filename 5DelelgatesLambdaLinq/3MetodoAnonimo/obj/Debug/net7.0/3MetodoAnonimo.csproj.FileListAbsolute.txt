@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\bin\Debug\net7.0\3MetodoAnonimo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\bin\Debug\net7.0\3MetodoAnonimo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\bin\Debug\net7.0\3MetodoAnonimo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\bin\Debug\net7.0\3MetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\bin\Debug\net7.0\3MetodoAnonimo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\refint\3MetodoAnonimo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\3MetodoAnonimo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\DelelgatesLambdaLinq\3MetodoAnonimo\obj\Debug\net7.0\ref\3MetodoAnonimo.dll
