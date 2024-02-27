@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\bin\Debug\net7.0\2FileInfo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\bin\Debug\net7.0\2FileInfo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\bin\Debug\net7.0\2FileInfo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\bin\Debug\net7.0\2FileInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\bin\Debug\net7.0\2FileInfo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\refint\2FileInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\2FileInfo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\2FileInfo\obj\Debug\net7.0\ref\2FileInfo.dll

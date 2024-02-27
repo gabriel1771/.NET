@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\bin\Debug\net7.0\1ArquivoDiretorios.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\bin\Debug\net7.0\1ArquivoDiretorios.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\bin\Debug\net7.0\1ArquivoDiretorios.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\bin\Debug\net7.0\1ArquivoDiretorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\bin\Debug\net7.0\1ArquivoDiretorios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\refint\1ArquivoDiretorios.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\1ArquivoDiretorios.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\1ArquivoDiretorios\obj\Debug\net7.0\ref\1ArquivoDiretorios.dll

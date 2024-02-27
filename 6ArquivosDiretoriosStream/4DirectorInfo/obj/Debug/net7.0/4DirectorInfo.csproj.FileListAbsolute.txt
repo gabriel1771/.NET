@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\bin\Debug\net7.0\4DirectorInfo.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\bin\Debug\net7.0\4DirectorInfo.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\bin\Debug\net7.0\4DirectorInfo.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\bin\Debug\net7.0\4DirectorInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\bin\Debug\net7.0\4DirectorInfo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\refint\4DirectorInfo.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\4DirectorInfo.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\4DirectorInfo\obj\Debug\net7.0\ref\4DirectorInfo.dll

@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\bin\Debug\net7.0\7FileStreamBlockUsing.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\bin\Debug\net7.0\7FileStreamBlockUsing.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\bin\Debug\net7.0\7FileStreamBlockUsing.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\bin\Debug\net7.0\7FileStreamBlockUsing.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\bin\Debug\net7.0\7FileStreamBlockUsing.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\refint\7FileStreamBlockUsing.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\7FileStreamBlockUsing.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\ArquivosDiretoriosStream\7FileStreamBlockUsing\obj\Debug\net7.0\ref\7FileStreamBlockUsing.dll
