@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\5Path\\5Path.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\5Path\\5Path.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\5Path\\5Path.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\5Path\\5Path.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\5Path\\5Path.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\5Path\\5Path.csproj",
         "projectName": "5Path",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\5Path\\5Path.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\5Path\\5Path.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\5Path\\obj\\",
+        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\5Path\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

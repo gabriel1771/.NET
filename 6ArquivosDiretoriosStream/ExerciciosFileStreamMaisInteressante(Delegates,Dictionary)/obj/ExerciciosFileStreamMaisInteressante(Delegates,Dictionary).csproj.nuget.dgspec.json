@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj",
         "projectName": "ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary).csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\obj\\",
+        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStreamMaisInteressante(Delegates,Dictionary)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

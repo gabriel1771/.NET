@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj",
         "projectName": "ExerciciosFileStream",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStream\\ExerciciosFileStream.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\ExerciciosFileStream\\obj\\",
+        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\ExerciciosFileStream\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

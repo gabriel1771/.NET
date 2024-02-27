@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\bin\Debug\net8.0\3SerializacaoJSON.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\bin\Debug\net8.0\3SerializacaoJSON.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\bin\Debug\net8.0\3SerializacaoJSON.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\bin\Debug\net8.0\3SerializacaoJSON.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\bin\Debug\net8.0\3SerializacaoJSON.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\refint\3SerializacaoJSON.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\3SerializacaoJSON.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\3SerializacaoJSON\obj\Debug\net8.0\ref\3SerializacaoJSON.dll

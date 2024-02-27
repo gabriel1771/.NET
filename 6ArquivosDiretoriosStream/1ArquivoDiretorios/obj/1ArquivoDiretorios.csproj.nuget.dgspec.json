@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj": {}
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj": {
+    "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj",
+        "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj",
         "projectName": "1ArquivoDiretorios",
-        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj",
+        "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\1ArquivoDiretorios\\1ArquivoDiretorios.csproj",
         "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\1ArquivoDiretorios\\obj\\",
+        "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\1ArquivoDiretorios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

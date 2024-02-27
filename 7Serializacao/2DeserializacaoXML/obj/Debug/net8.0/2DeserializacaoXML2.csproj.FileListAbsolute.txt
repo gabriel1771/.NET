@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\bin\Debug\net8.0\2DeserializacaoXML2.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\bin\Debug\net8.0\2DeserializacaoXML2.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\bin\Debug\net8.0\2DeserializacaoXML2.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\bin\Debug\net8.0\2DeserializacaoXML2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\bin\Debug\net8.0\2DeserializacaoXML2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\refint\2DeserializacaoXML2.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\2DeserializacaoXML2.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\2DeserializacaoXML\obj\Debug\net8.0\ref\2DeserializacaoXML2.dll

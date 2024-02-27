@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\4DirectorInfo\\4DirectorInfo.csproj",
+      "projectUniqueName": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\4DirectorInfo\\4DirectorInfo.csproj",
       "projectName": "4DirectorInfo",
-      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\4DirectorInfo\\4DirectorInfo.csproj",
+      "projectPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\4DirectorInfo\\4DirectorInfo.csproj",
       "packagesPath": "C:\\Users\\reisg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\ArquivosDiretoriosStream\\4DirectorInfo\\obj\\",
+      "outputPath": "C:\\Users\\reisg\\OneDrive\\Desktop\\devBack\\LinguagemC#\\6ArquivosDiretoriosStream\\4DirectorInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

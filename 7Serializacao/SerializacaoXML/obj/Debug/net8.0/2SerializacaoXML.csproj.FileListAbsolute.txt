@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\bin\Debug\net8.0\2SerializacaoXML.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\bin\Debug\net8.0\2SerializacaoXML.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\bin\Debug\net8.0\2SerializacaoXML.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\bin\Debug\net8.0\2SerializacaoXML.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\bin\Debug\net8.0\2SerializacaoXML.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\refint\2SerializacaoXML.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\2SerializacaoXML.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\7Serializacao\SerializacaoXML\obj\Debug\net8.0\ref\2SerializacaoXML.dll
