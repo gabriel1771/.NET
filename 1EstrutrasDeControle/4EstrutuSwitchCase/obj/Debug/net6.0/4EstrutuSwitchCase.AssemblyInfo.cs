@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4EstrutuSwitchCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c4c0006c01421613eb434e9c0f073f5e40ed06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63619ee198a84e90856a26a6bf802ce355664fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("4EstrutuSwitchCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4EstrutuSwitchCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

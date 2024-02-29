@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\bin\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\bin\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\bin\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\bin\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\bin\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\refint\6ExercicioEnvolvendoTudoAtéAgr.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\6ExercicioEnvolvendoTudoAtéAgr.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\6ExercicioEnvolvendoTudoAtéAgr\obj\Debug\net7.0\ref\6ExercicioEnvolvendoTudoAtéAgr.dll

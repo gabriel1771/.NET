@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\bin\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\bin\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\bin\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\bin\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\bin\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\refint\5TratamentoDeExceptions2(WhenAll).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\5TratamentoDeExceptions2(WhenAll).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions2(WhenAll)\obj\Debug\net7.0\ref\5TratamentoDeExceptions2(WhenAll).dll

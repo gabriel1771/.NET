@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14CamposStaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1a0f6131af24e2288506f190c6b708bafd19f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63619ee198a84e90856a26a6bf802ce355664fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("14CamposStaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14CamposStaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

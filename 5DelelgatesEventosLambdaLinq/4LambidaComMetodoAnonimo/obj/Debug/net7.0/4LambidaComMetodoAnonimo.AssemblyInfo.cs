@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4LambidaComMetodoAnonimo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602133a01b709294e7a11f3df054d7cc381081b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63619ee198a84e90856a26a6bf802ce355664fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("4LambidaComMetodoAnonimo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4LambidaComMetodoAnonimo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

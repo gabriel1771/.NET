@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\bin\Debug\net8.0\2TaskProgAssincrona.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\bin\Debug\net8.0\2TaskProgAssincrona.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\bin\Debug\net8.0\2TaskProgAssincrona.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\bin\Debug\net8.0\2TaskProgAssincrona.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\bin\Debug\net8.0\2TaskProgAssincrona.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\refint\2TaskProgAssincrona.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\2TaskProgAssincrona.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\2TaskProgAssincrona\obj\Debug\net8.0\ref\2TaskProgAssincrona.dll

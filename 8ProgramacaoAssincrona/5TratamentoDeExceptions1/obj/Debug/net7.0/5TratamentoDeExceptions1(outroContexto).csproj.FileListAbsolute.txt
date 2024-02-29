@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\bin\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\bin\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\bin\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\bin\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\bin\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\refint\5TratamentoDeExceptions1(outroContexto).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\5TratamentoDeExceptions1(outroContexto).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\5TratamentoDeExceptions1\obj\Debug\net7.0\ref\5TratamentoDeExceptions1(outroContexto).dll

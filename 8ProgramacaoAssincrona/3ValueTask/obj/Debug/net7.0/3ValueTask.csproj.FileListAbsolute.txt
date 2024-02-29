@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\bin\Debug\net7.0\3ValueTask.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\bin\Debug\net7.0\3ValueTask.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\bin\Debug\net7.0\3ValueTask.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\bin\Debug\net7.0\3ValueTask.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\bin\Debug\net7.0\3ValueTask.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\refint\3ValueTask.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\3ValueTask.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\3ValueTask\obj\Debug\net7.0\ref\3ValueTask.dll

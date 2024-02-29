@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\bin\Debug\net7.0\7StreamAsync.exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\bin\Debug\net7.0\7StreamAsync.deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\bin\Debug\net7.0\7StreamAsync.runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\bin\Debug\net7.0\7StreamAsync.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\bin\Debug\net7.0\7StreamAsync.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\refint\7StreamAsync.dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\7StreamAsync.genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\7StreamAsync\obj\Debug\net7.0\ref\7StreamAsync.dll

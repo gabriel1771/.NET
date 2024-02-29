@@ -1,0 +1,15 @@
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\bin\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).exe
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\bin\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).deps.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\bin\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).runtimeconfig.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\bin\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\bin\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).AssemblyInfoInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).AssemblyInfo.cs
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).csproj.CoreCompileInputs.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).sourcelink.json
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\refint\4CsTaskCancel(depoisDeUmCertoTempo).dll
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).pdb
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\4CsTaskCancel(depoisDeUmCertoTempo).genruntimeconfig.cache
+C:\Users\reisg\OneDrive\Desktop\devBack\LinguagemC#\8ProgramacaoAssincrona\4CsTaskCancel(depois de um certo tempo)\obj\Debug\net7.0\ref\4CsTaskCancel(depoisDeUmCertoTempo).dll
